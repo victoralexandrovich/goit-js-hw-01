@@ -3,6 +3,6 @@ function getElementWidth(content, padding, border) {
   return totalWidth;
 }
 
-console.log(getElementWidth(300, 20, 5));
-console.log(getElementWidth(150, 0, 2));
-console.log(getElementWidth(400, 15.5, 1.5));
+console.log(getElementWidth(50, 8, 4));
+console.log(getElementWidth(60, 12, 8.5));
+console.log(getElementWidth(200, 0, 0));
